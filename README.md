@@ -1,1 +1,1 @@
-(!MOVED)[https://github.com/mboussaid/dolar.js]
+The Repository has been moved please checkout the documentation [Documentation](https://mboussaid.github.io/dolar.js/).
